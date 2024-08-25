@@ -1,0 +1,9 @@
+.LanguageSwitcher {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #c980dc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
